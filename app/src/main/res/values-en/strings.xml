@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="lista_de_la_compra">Shopping List</string>
+    <string name="producto">Product</string>
+    <string name="cantidad">Quantity</string>
+    <string name="precio_unitario">Unit Price</string>
+    <string name="compratotal" translatable="false">Total purchase:</string>
+</resources>

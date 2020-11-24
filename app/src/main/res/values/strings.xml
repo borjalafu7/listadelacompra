@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">listadelacompra</string>
+    <string name="lista_de_la_compra">Lista de la compra</string>
+    <string name="producto">Producto</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="precio_unitario">Precio Unitario</string>
+    <string name="compratotal" translatable="false">Total compra:</string>
+</resources>
